@@ -1,3 +1,5 @@
+<img src="https://github.com/ZeroZipMFG/branding/blob/main/zerozip_logo_final.svg" />
+
 # About Me
 
 Hi there, my name is Ben Hammer. I enjoy solving problems and making things.
